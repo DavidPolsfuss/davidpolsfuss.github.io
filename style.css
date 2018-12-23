@@ -1,11 +1,11 @@
 * {
-  max-width: 500px;
+  max-width: 100px;
   margin: auto;
 }
 
 
 /*body {
-    min-width: 500px;
+    min-width: 100px;
 }*/
 
 div {
@@ -33,7 +33,7 @@ div {
 }
 
 .left {
-  height: 500px;
+  height: 100px;
   width: 45px;
   background-color: #000000;
   float: left;
@@ -41,7 +41,7 @@ div {
 }
 
 .right {
-  height: 500px;
+  height: 100px;
   width: 45px;
   background-color: #000000;
   float: right;
