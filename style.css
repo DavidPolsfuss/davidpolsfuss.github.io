@@ -15,7 +15,7 @@ div {
 #header {
   height: 40px;
   width: 100%;
-  background-color: #ffcccc;
+  background-color: #000000;
   position: fixed;
   z-index: 1;
 }
@@ -33,7 +33,7 @@ div {
 }
 
 .left {
-  height: 1000px;
+  height: 500px;
   width: 45px;
   background-color: #000000;
   float: left;
@@ -41,7 +41,7 @@ div {
 }
 
 .right {
-  height: 1000px;
+  height: 500px;
   width: 45px;
   background-color: #000000;
   float: right;
