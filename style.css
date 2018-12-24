@@ -7,7 +7,7 @@ html, body {
 }
 
 body {
-  font-family: 'Lato', sans-serif;
+  font-family: font-family: "Times New Roman", Times, serif;
   background-image: url('goldbackground.jpg');
   background-position: center top;
   background-size: cover;
