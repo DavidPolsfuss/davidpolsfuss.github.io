@@ -1,3 +1,4 @@
+
 body {
   font-family: font-family: "Times New Roman", Times, serif;
   background-image: url('goldbackground.jpg');
@@ -6,16 +7,26 @@ body {
   margin: 0;
 
 .page-title {
+  margin-top:20px;
+  margin-bottom: 2px;
+  font-family: font-family: "Times New Roman", Times, serif;
   text-align: center;
   font-size: 40px; 
+  margin-bottom:
 }
 
 .email {
+  margin-top:1px;
+  margin-bottom:2px;
   text-align:center;
+  font-family: font-family: "Times New Roman", Times, serif;
   font-size:20px;
 }
 .phone {
    text-align:center;
+  margin-top:1px;
+  margin-bottom:2px;
+  font-family: font-family: "Times New Roman", Times, serif;
   font-size:20px;
 }
   
