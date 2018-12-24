@@ -5,12 +5,14 @@ html, body {
   flex-direction: column;
   font-weight: 300;
   line-height: 1.5;
-}
+
   font-family: font-family: "Times New Roman", Times, serif;
   background-image: url('goldbackground.jpg');
   background-position: center top;
   background-size: cover;
   margin: 0;
+  
+  }
 
 .page-title {
   margin-top:20px;
@@ -21,25 +23,21 @@ html, body {
   margin-bottom:
 }
 
-.email {
-  margin-top:1px;
-  margin-bottom:2px;
-  text-align:center;
-  font-family: font-family: "Times New Roman", Times, serif;
-  font-size:20px;
-}
-.phone {
-   text-align:center;
-  margin-top:1px;
-  margin-bottom:2px;
-  font-family: font-family: "Times New Roman", Times, serif;
-  font-size:20px;
-}
-
 .page-description {
-  border: 1px solid #000;
+  border: 4px solid #000;
   text-align: center;
   padding: 30px;
+}
+
+.education {
+  border: 4px solid #000;
+  text-align: left;
+  padding: 20px;
+}
+.experience {
+  border: 4px solid #000;
+  text-align: left;
+  padding: 20px;
 }
   
 nav {
