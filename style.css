@@ -21,15 +21,15 @@ a {
 
 .page-title {
   text-align: center;
-  font-weight: 200;
+  font-size: 200px; 
 }
 
 .email {
   text-align:center;
-  font-weight:100;
+  font-size:100px;
 }
 .phone {
    text-align:center;
-  font-weight:100;
+  font-size:100px;
 }
   
