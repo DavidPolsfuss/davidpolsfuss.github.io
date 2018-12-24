@@ -24,35 +24,21 @@ html, body {
 }
 
 .contact {
-  border: 4px solid #000;
   text-align: center;
-  padding: 30px;
+  padding: 2px;
 }
 
 .education {
   border: 4px solid #000;
-  text-align: left;
-  padding: 20px;
+  text-align: center;
+  padding: 10px;
 }
 .experience {
   border: 4px solid #000;
-  text-align: left;
-  padding: 20px;
+  text-align: center;
+  padding: 10px;
 }
   
-nav {
-  background-color: #FFF;
-}
-
-nav li {
-  display: inline;
-  margin: 0;
-  padding: 0 10px;
-}
-
-nav ul {
-  display: inline;
-}
   
   
   
